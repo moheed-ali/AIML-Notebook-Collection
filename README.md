@@ -24,7 +24,7 @@ The [California Housing dataset](https://scikit-learn.org/stable/datasets/toy_da
 
 ## Requirements
 
-- Python 3.x
+- Python 3.7 +
 - Jupyter Notebook
 - NumPy
 - TensorFlow
