@@ -5,6 +5,7 @@ This repository contains Jupyter Notebook files implementing Multi-Layer Percept
 ## Files
 
 - `california_housing.ipynb`: Jupyter Notebook containing code for MLP regression experiments.
+- `Workflow_Setup_Colab_Google_Drive_and_GitHub.md`: Guide on setting up the workflow with Colab, Google Drive, and GitHub.
 - `README.md`: This README file.
 
 ## Overview
