@@ -1,26 +1,28 @@
-# MLP Regression for California Housing
+# AIML Notebook Collection
 
-This repository contains Jupyter Notebook files implementing Multi-Layer Perceptron (MLP) regression models using Keras and TensorFlow on the California Housing dataset.
+Welcome to the AIML Notebook-Collection repository! This collection serves as a hub for various machine learning experiments, showcasing a diverse range of algorithms and datasets. Here, you'll find a variety of notebooks exploring different aspects of artificial intelligence and machine learning.
 
 ## Files
 
 - `california_housing.ipynb`: Jupyter Notebook containing code for MLP regression experiments.
 - `Workflow_Setup_Colab_Google_Drive_and_GitHub.md`: Guide on setting up the workflow with Colab, Google Drive, and GitHub.
+- `ridership_prediction.ipynb`: Explore RNN, LSTM, and GRU models for predicting rail ridership over the next 14 days.
 - `README.md`: This README file.
 
 ## Overview
 
-The Jupyter Notebook (`california_housing.ipynb`) includes implementations of MLP regression models with different configurations, training details, and evaluation results. Each run is documented along with its corresponding results, including Root Mean Squared Error (RMSE).
+The notebooks in this collection provide detailed implementations of machine learning models, including configuration details, training specifics, and evaluation results. Each experiment is documented thoroughly, making it easy for users to understand and replicate the results.
 
 ## Dataset
 
-The [California Housing dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#california-housing-dataset) is used for regression tasks, predicting housing prices based on various features.
+Various datasets are utilized across different notebooks, ensuring a broad range of scenarios and challenges. The goal is to provide a comprehensive learning experience in the field of artificial intelligence and machine learning.
 
 ## Usage
 
-1. Open the Jupyter Notebook `california_housing.ipynb` in your preferred environment.
-2. Run each cell to execute the code and observe the results.
-3. Experiment with different configurations, layers, neurons, and optimizers as needed.
+1. Clone the repository to your local machine.
+2. Open the desired Jupyter Notebook in your preferred environment.
+3. Run each cell to execute the code and observe the results.
+4. Experiment with different configurations, datasets, and algorithms as needed.
 
 ## Requirements
 
